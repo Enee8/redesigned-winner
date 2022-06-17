@@ -1,6 +1,6 @@
 {
     "name": "redesigned-winner",
-    "description": "Uiizerspun",
+    "description": "Uiizerspun.",
       "env": {
         "PASSWORD": {
             "description": "PASSWORD",
