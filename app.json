@@ -1,11 +1,11 @@
 {
     "name": "redesigned-winner",
-    "description": "Uiizerspun.",
-      "env": {
+    "description": "For Fun.",
+    "env": {
         "PASSWORD": {
             "description": "PASSWORD",
             "value": "password"
-            }
+        }
     },
     "stack": "container"
 }
